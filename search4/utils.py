@@ -18,7 +18,7 @@ def banner():
     print(
         Style.BRIGHT
         + Color.YELLOW
-        + """                                                           
+        + r"""                                                           
  ___                  _   _ _ 
 / __| ___ __ _ _ _ __| |_| | | 
 \__ \/ -_) _` | '_/ _| ' \_ _| 

@@ -9,7 +9,7 @@ from yaml import safe_load
 from jinja2 import Template
 from sys import exit
 from os.path import realpath
-from search4.utils import banner, result
+from utils import banner, result
 
 
 def print_exec_time(t):
@@ -61,6 +61,7 @@ def parse_args():
 
 
 def main():
+    print('oi')
     link_data = parse_yaml()
     colorama.init()
     start_time = datetime.now()

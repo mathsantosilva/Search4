@@ -1,37 +1,46 @@
 ---
 sites:
   "About Me": https://about.me/{{ username }}
+  Bitbucket: https://bitbucket.org/{{ username }}
   Blogger: https://{{ username }}.blogspot.com
   BugCrowd: https://bugcrowd.com/{{ username }}
   Buzzfeed: https://buzzfeed.com/{{ username }}
+  CodePen: https://codepen.io/{{ username }}
   Dailymotion: https://www.dailymotion.com/{{ username }}
   "Dev.to": https://dev.to/{{ username }}
-  FaceBook: https://www.facebook.com/{{ username }}
+  Facebook: https://www.facebook.com/{{ username }}
   Flickr: https://flickr.com/photos/{{ username }}
   Giphy: https://giphy.com/{{ username }}
   Github: https://github.com/{{ username }}
+  GitLab: https://gitlab.com/{{ username }}
   GoodReads: https://www.goodreads.com/{{ username }}
   HackerOne: https://hackerone.com/{{ username }}
   Instagram: https://www.instagram.com/{{ username }}/
   Kaggle: https://www.kaggle.com/{{ username }}
+  LeetCode: https://leetcode.com/{{ username }}
+  LinkedIn: https://www.linkedin.com/in/{{ username }}
+  Mastodon: https://mastodon.social/@{{ username }}
   Medium: https://medium.com/@{{ username }}
-  MyAnimeList: https://myanimelist.net/profile/{{ username }} 
-  MySpace: https://myspace.com/{{ username }}
+  NPM: https://www.npmjs.com/~{{ username }}
+  Pastebin: https://pastebin.com/u/{{ username }}
+  Patreon: https://www.patreon.com/{{ username }}
+  Pinterest: https://www.pinterest.com/{{ username }}
+  PyPI: https://pypi.org/user/{{ username }}
+  Quora: https://www.quora.com/profile/{{ username }}
   Reddit: https://www.reddit.com/user/{{ username }}
-  "Repl.it": https://repl.it/@{{ username }}
-  Scratch: https://scratch.mit.edu/users/{{ username }}
-  Slack: https://{{ username }}.slack.com
+  Replit: https://replit.com/@{{ username }}
   Soundcloud: https://soundcloud.com/{{ username }}
   Sourceforge: https://sourceforge.net/u/{{ username }}
-  Pastebin: https://pastebin.com/u/{{ username }} 
-  Patreon: https://www.patreon.com/{{ username }}
-  Quora: https://www.quora.com/profile/{{ username }}
+  StackOverflow: https://stackoverflow.com/users/{{ username }}
+  Steam: https://steamcommunity.com/id/{{ username }}
+  TikTok: https://www.tiktok.com/@{{ username }}
   Tumblr: https://{{ username }}.tumblr.com
   Twitch: https://twitch.tv/{{ username }}/profile
   Twitter: https://twitter.com/{{ username }}
   Unsplash: https://unsplash.com/@{{ username }}
-  Wikipedia: https://www.wikipedia.org/wiki/User:{{ username }}
   Vimeo: https://vimeo.com/{{ username }}
   VK: https://m.vk.com/{{ username }}
   VSCO: https://vsco.co/{{ username }}/images/1
+  Wikipedia: https://www.wikipedia.org/wiki/User:{{ username }}
+  XDA: https://forum.xda-developers.com/m/{{ username }}.####
   YouTube: https://www.youtube.com/c/{{ username }}
